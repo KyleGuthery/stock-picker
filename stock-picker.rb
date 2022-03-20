@@ -9,7 +9,6 @@ def stock_picker(stocks)
           biggest_change = change
           new_arr = [index, comparison]
         end
-        # p "#{stocks[index]} change #{change}"
       end
     end
   end
